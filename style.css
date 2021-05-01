@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    background-color: #404040;
+    height: 120px;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    background-color: white;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    border-radius: 40%;
+    font-size: 2em;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+#headerp {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #6f6f6f;
+}
+
+.headers {
+    margin-left: 1em;
+}
